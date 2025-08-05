@@ -1,3 +1,3 @@
 # Primeiro-Site
 
-Desenvolvidor por **VItor Fuerst**
+Desenvolvidor por **Vitor Fuerst**
